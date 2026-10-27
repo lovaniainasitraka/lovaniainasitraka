@@ -1,39 +1,61 @@
 ## Hi there 👋
 
-<!--
-**lovaniainasitraka/lovaniainasitraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Développeur+Full+Stack;Passionné+d'Aviation;Créateur+de+projets)](https://git.io/typing-svg)
 
 
-**Développement & Data :**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+## 👨‍💻 À propos de moi
 
-**Réseau & Cybersécurité :**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+- 🔭 Je travaille actuellement sur **Dungeon as a Service** (API backend FastAPI) et **Foot IA** (projet Machine Learning).
+- 🌱 J'explore et approfondis mes connaissances en **Cybersécurité** (Forensics avec Volatility, SonarQube, injections SQL) et **Data/AI**.
+- 🛠️ Je conçois des bases de données relationnelles (comme *Nexus Arena*) et des topologies réseaux complexes (VLANs, EtherChannel, HSRP sur Cisco Packet Tracer).
+- 🎯 **En recherche active** : Alternance pour ma 3ème année de Bachelor (RNCP Niveau 6) en Cybersécurité ou Data/IA sur Lille ou Roubaix.
+- ⚡ **Fun facts** : Sur mon temps libre, je développe des jeux 2D sur GDevelop (comme *Rise of the Gravewalker*), je suis passionné de simulation de vol et je fais du montage vidéo sur Premiere Pro.
 
-**Environnement :**
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## 🛠️ Stack Technique & Outils
 
-<img src="./assets/demo.gif" width="100%" />
+### Développement & Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" title="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" alt="Vite" title="Vite"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" title="FastAPI"/>
+</p>
+
+### Data & Cybersécurité
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="SQL/PostgreSQL" title="SQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="40" alt="SonarQube" title="SonarQube"/>
+</p>
+
+### Réseau & Environnement
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="60" alt="Cisco" title="Cisco"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code"/>
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Top Languages" />
+</div>
