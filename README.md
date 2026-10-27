@@ -7,6 +7,18 @@
 </div>
 
 
+## 🐍 Contributions GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lovaniaina/Lovaniaina/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lovaniaina/Lovaniaina/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Lovaniaina/Lovaniaina/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/lovaniaina-sitraka-randriamanantenasoa-689099185/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn" title="LinkedIn"/>
