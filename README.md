@@ -12,7 +12,7 @@
 ## 🐍 Contributions GitHub
 
 <div align="center">
-  <img src="COLLE_TON_LIEN_RAW_ICI" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lovaniainasitraka/lovaniainasitraka/refs/heads/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
