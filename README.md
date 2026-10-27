@@ -1,6 +1,5 @@
                                                 LOVANIAINA SITRAKA 👋
 
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Développeur+Full+Stack;Passionné+d'Aviation;Créateur+de+projets)](https://git.io/typing-svg)
@@ -71,3 +70,10 @@
 
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=lovaniainasitraka&color=00FF00&style=flat-square&label=VUES)
+
+
+
+> [!IMPORTANT]
+>  **Recherche d'Alternance - Septembre 2027**
+> Actuellement en B2 Informatique à Ynov, je suis à la recherche d'un contrat d'apprentissage (Niveau 6 RNCP) en **DevOps** ou **Data/IA** sur la métropole lilloise (Lille / Roubaix).
+
