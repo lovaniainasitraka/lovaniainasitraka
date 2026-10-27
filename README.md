@@ -8,7 +8,15 @@
 </div>
 
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/lovaniaina-sitraka-randriamanantenasoa-689099185/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lovaniainasitraka@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email" title="Email"/>
+  </a>
+</div>
                                     
 
                                                   Développement & Web
@@ -60,3 +68,6 @@
 
 ---
 
+
+
+![Visiteurs](https://komarev.com/ghpvc/?username=lovaniainasitraka&color=00FF00&style=flat-square&label=VUES)
